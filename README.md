@@ -69,6 +69,7 @@ flutter pub get
 docker compose version
 ```
 ## Uruchomienie demonstracji
+> Przed uruchomieniem api upewnij się, że twój docker engine działa.
 1. Przejdź w terminalu do repozytorium api. Tam zbuduj i uruchom obraz poleceniami:
 ```bash
 docker compose build
